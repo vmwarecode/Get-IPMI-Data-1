@@ -1,1 +1,0 @@
-# Get-IPMI-Data-1
